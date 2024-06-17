@@ -1,6 +1,6 @@
 # Hugginig_face_ehram
 ---
-title: Demo
+title: Huging Face
 emoji: 🌖
 colorFrom: purple
 colorTo: purple
