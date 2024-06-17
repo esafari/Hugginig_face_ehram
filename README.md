@@ -1,4 +1,3 @@
-# Hugginig_face_ehram
 ---
 title: Huging Face
 emoji: 🌖
